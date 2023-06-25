@@ -1,5 +1,5 @@
 Merhabalar, ben Emir Cica. 2020 yılında Enerjisa Bandırma Fen Lisesi'nden mezun oldum. Pamukkale Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim.
-Kendi halinde geliştirme yapmaya çalışan bir yazılımcı adayıyım. Zamanla kodları burada da paylaşmaya başlayacağım ve bir süre sonra bu dosya İngilizceye dönecek. 
+Kendi halinde geliştirme yapan bir yazılımcı adayıyım. Zamanla kodları burada da paylaşmaya başlayacağım ve bir süre sonra bu dosya İngilizceye dönecek. 
 
 🔧 Languages and Tools:
 
@@ -26,7 +26,7 @@ Kendi halinde geliştirme yapmaya çalışan bir yazılımcı adayıyım. Zamanl
 
 
 
-Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz.
+Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz:
 
 ### 📩 Connect with me:
 
@@ -34,6 +34,8 @@ Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz.
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" />][spotify]
+
 
 
 
@@ -44,10 +46,12 @@ Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz.
 [linkedin]: https://www.linkedin.com/in/emircica-2848a0218/
 [gmail]: mailto:emircica.ec@gmail.com
 [twitter]: https://twitter.com/emircica
+[spotify]: https://open.spotify.com/user/shadowemir121
 <br />
 
 
 
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 
@@ -71,6 +75,3 @@ Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz.
 
 
 
-
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=DrXendria&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DrXendria&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
