@@ -34,7 +34,8 @@ Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz:
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spotify.svg" />][spotify]
+
+
 
 
 
@@ -46,7 +47,7 @@ Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz:
 [linkedin]: https://www.linkedin.com/in/emircica-2848a0218/
 [gmail]: mailto:emircica.ec@gmail.com
 [twitter]: https://twitter.com/emircica
-[spotify]: https://open.spotify.com/user/shadowemir121
+
 <br />
 
 
