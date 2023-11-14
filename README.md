@@ -1,5 +1,5 @@
-Merhabalar, ben Emir Cica. 2020 yılında Enerjisa Bandırma Fen Lisesi'nden mezun oldum. Pamukkale Üniversitesi Bilgisayar Mühendisliği 2.sınıf öğrencisiyim.
-Kendi halinde geliştirme yapan bir yazılımcı adayıyım. Zamanla kodları burada da paylaşmaya başlayacağım ve bir süre sonra bu dosya İngilizceye dönecek. 
+Hello, i am Emir Cica. I graduated from Enerjisa Bandırma Science High School at 2020. Currently, i am a sophomore at Pamukkale University Computer Engineering Department.
+I am a software developer candidate who develops on his own.
 
 🔧 Languages and Tools:
 
