@@ -31,9 +31,10 @@ Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz:
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />][twitter]
+[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/instagram/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/gmail/gmail.svg" />][gmail]
+[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/twitter/twitter.svg" />][twitter]
+[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/spotify/spotify.svg" />][spotify]
 
 
 
@@ -47,6 +48,7 @@ Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz:
 [linkedin]: https://www.linkedin.com/in/emircica-2848a0218/
 [gmail]: mailto:emircica.ec@gmail.com
 [twitter]: https://twitter.com/emircica
+[spotify]: https://open.spotify.com/user/shadowemir121?si=563b4e51c4684578
 
 <br />
 
