@@ -7,6 +7,7 @@ I am a software developer candidate who develops on his own.
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/github/github.svg" />][github]
 [<img align="left" alt="Python" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/python/python.svg" />][Python]
 [<img align="left" alt="Java" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/java/java.svg" />][Java]
+[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />][Kotlin]
 
 
 
@@ -17,6 +18,7 @@ I am a software developer candidate who develops on his own.
 [github]: https://github.com/DrXendria
 [python]: https://www.python.org
 [Java]: https://www.java.com/
+[Kotlin]: https://kotlinlang.org
 
 
 
