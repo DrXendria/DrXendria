@@ -26,9 +26,7 @@ I am a software developer candidate who develops on his own.
 
 
 
-Aşağıdaki ikonlara tıklayarak sosyal medya hesaplarıma ulaşabilirsiniz:
-
-### 📩 Connect with me:
+### 📩 You can click to these icons below to reach my social media accounts.
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/instagram/instagram.svg" />][instagram]
