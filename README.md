@@ -47,7 +47,7 @@ I am a software developer candidate who develops on his own.
 [instagram]: https://www.instagram.com/emircica/
 [linkedin]: https://www.linkedin.com/in/emircica-2848a0218/
 [gmail]: mailto:emircica.ec@gmail.com
-[twitter]: https://x.com/emircica
+[x]: https://x.com/emircica
 [spotify]: https://open.spotify.com/user/shadowemir121?si=563b4e51c4684578
 
 <br />
