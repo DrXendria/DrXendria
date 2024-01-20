@@ -6,7 +6,7 @@ I am a software developer candidate who develops on his own.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github]
 [<img align="left" alt="Python" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" />][Python]
-[<img align="left" alt="Java" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/java/java.svg" />][Java]
+[<img align="left" alt="Java" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/java/java.svg" />][Java]
 [<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />][Kotlin]
 
 
