@@ -19,8 +19,8 @@ I am a software developer candidate who develops on his own.
 
 
 
-
-
+<br/>
+<br/>
 <br />
 [HTML]: https://html.com
 [CSS]: https://css3.com
@@ -34,7 +34,8 @@ I am a software developer candidate who develops on his own.
 [PHP]: https://www.php.net
 
 
-
+<br/>
+<br/>
 
 <br />
 <br />
