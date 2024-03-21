@@ -22,6 +22,10 @@ I am a software developer candidate who develops on his own.
 <br/>
 <br/>
 <br />
+
+
+
+
 [HTML]: https://html.com
 [CSS]: https://css3.com
 [Git]: https://git-scm.com
