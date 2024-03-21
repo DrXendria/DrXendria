@@ -2,6 +2,9 @@ Hello, i am Emir Cica. I graduated from Enerjisa Bandırma Science High School a
 I am a software developer candidate who develops on his own.
 
 🔧 Languages and Tools:
+
+
+
 [<img align="left" alt="HTML" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/html/html.svg" />][HTML]
 [<img align="left" alt="CSS" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/css/css.svg" />][CSS]
 [<img align="left" alt="Bootstrap" width="26px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/bootstrap/bootstrap.svg" />][Bootstrap]
