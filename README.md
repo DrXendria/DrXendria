@@ -23,9 +23,6 @@ I am a software developer candidate who develops on his own.
 <br/>
 <br />
 
-
-
-
 [HTML]: https://html.com
 [CSS]: https://css3.com
 [Git]: https://git-scm.com
@@ -36,16 +33,10 @@ I am a software developer candidate who develops on his own.
 [Java]: https://www.java.com/
 [Kotlin]: https://kotlinlang.org
 [PHP]: https://www.php.net
-
-
 <br/>
 <br/>
-
 <br />
 <br />
-
-
-
 ### 📩 You can click to these icons below to reach my social media accounts.
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />][linkedin]
