@@ -1,4 +1,4 @@
-Hello, i am Emir Cica. I graduated from Enerjisa Bandırma Science High School at 2020. Currently, i am a sophomore at Pamukkale University Computer Engineering Department.
+Hello, i am Emir Cica. I graduated from Enerjisa Bandırma Science High School at 2020. Currently, i am 3rd grade at Pamukkale University Computer Engineering Department.
 I am a software developer candidate who develops on his own.
 
 🔧 Languages and Tools:
