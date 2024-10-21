@@ -11,7 +11,6 @@ I am a software developer candidate who develops on his own.
 [<img align="left" alt="PHP" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />][PHP]
 [<img align="left" alt="Python" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />][Python]
 [<img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />][Java]
-[<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />][Kotlin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
 [<img align="left" alt="Git" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />][Git]
 
@@ -30,7 +29,6 @@ I am a software developer candidate who develops on his own.
 
 [Python]: https://www.python.org
 [Java]: https://www.java.com/
-[Kotlin]: https://kotlinlang.org
 [PHP]: https://www.php.net
 <br/>
 <br/>
