@@ -13,7 +13,6 @@ I am a software developer candidate who develops on his own.
 [<img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />][Java]
 [<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" />][Kotlin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />][github]
 [<img align="left" alt="Git" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />][Git]
 
 
@@ -28,7 +27,7 @@ I am a software developer candidate who develops on his own.
 [Git]: https://git-scm.com
 [Bootstrap]: https://getbootstrap.com
 [vsCode]: https://code.visualstudio.com/
-[github]: https://github.com/DrXendria
+
 [Python]: https://www.python.org
 [Java]: https://www.java.com/
 [Kotlin]: https://kotlinlang.org
@@ -39,11 +38,11 @@ I am a software developer candidate who develops on his own.
 <br />
 ### 📩 You can click to these icons below to reach my social media accounts.
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/linkedin/linkedin.svg" />][linkedin]
-[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/gmail/gmail.svg" />][gmail]
-[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x.svg" />][x]
-[<img align="left" height="24" width="24" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/spotify/spotify.svg" />][spotify]
+[<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" />][linkedin]
+[<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" />][instagram]
+[<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/twitter-x.svg" />][x]
+[<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/spotify.svg" />][spotify]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" />][github]
 
 
 
@@ -55,9 +54,9 @@ I am a software developer candidate who develops on his own.
 
 [instagram]: https://www.instagram.com/emircica/
 [linkedin]: https://www.linkedin.com/in/emircica-2848a0218/
-[gmail]: mailto:emircica.ec@gmail.com
 [x]: https://x.com/emircica
 [spotify]: https://open.spotify.com/user/shadowemir121?si=563b4e51c4684578
+[github]: https://github.com/DrXendria
 
 <br />
 
