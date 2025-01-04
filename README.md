@@ -44,9 +44,10 @@ I am a software developer candidate who develops on his own.
 
 <br/>
 <br/>
+
+ 📩 You can click to these icons below to reach my social media accounts. 
+ <br />
 <br />
-<br />
- ### 📩 You can click to these icons below to reach my social media accounts.
 
 [<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" />][instagram]
