@@ -13,7 +13,7 @@ I am a software developer candidate who develops on his own.
 [<img align="left" alt="Next.js" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" />][Next.js]
 [<img align="left" alt="PHP" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />][PHP]
 [<img align="left" alt="Python" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />][Python]
-
+[<img align="left" alt="Laravel" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" />][Laravel]
 [<img align="left" alt="Java" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />][Java]
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />][MySQL]
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" />][MongoDB]
@@ -38,6 +38,7 @@ I am a software developer candidate who develops on his own.
 [Python]: https://www.python.org
 [Java]: https://www.java.com/
 [PHP]: https://www.php.net
+[Laravel]:https://laravel.com
 [MySQL]: https://www.mysql.com
 [MongoDB]: https://www.mongodb.com
 [vsCode]: https://code.visualstudio.com/
