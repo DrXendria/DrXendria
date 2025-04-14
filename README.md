@@ -49,6 +49,14 @@ I am a software developer candidate who develops on his own.
 
 <br/>
 <br/>
+---
+
+## 📈 GitHub Stats
+
+![Emir's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrXendria&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrXendria&layout=compact&theme=tokyonight)
+
+---
 
  📩 You can click to these icons below to reach my social media accounts. 
  <br />
