@@ -64,7 +64,7 @@ I am a software developer candidate who develops on his own.
 
 [<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/instagram.svg" />][instagram]
-[<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/twitter-x.svg" />][x]
+[<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/twitter-x.svg" />][x]
 [<img align="left" height="24" width="24px" src="https://github.com/CLorant/readme-social-icons/blob/main/medium/colored/spotify.svg" />][spotify]
 
 
